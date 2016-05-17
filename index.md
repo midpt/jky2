@@ -9,6 +9,25 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
+[TOC]
+
+##My own paragraph
+
+Try with block quote
+
+>  This is block quote
+>  Another line 
+>  Last line
+
+```
+Fence code
+Another line
+Last line
+```
+
+
+
+
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
