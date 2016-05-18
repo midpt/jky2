@@ -13,6 +13,11 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ## My own paragraph
 
+**Try table of content**
+
+[TOC]
+
+
 **Try with block quote**
 
 >  This is block quote
