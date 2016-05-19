@@ -1,6 +1,6 @@
 ---
 layout:page
-title:My extra page number
+title : MyExtraPage
 group:navigation
 ---
 
