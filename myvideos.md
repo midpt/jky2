@@ -1,7 +1,7 @@
 ---
 layout: page
-title :My Own Video Library
-group:navigation
+title : My Own Video Library
+group: navigation
 ---
 {% include JB/setup %}
 
