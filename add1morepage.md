@@ -1,7 +1,7 @@
 ---
 layout:page
-title: My extra page number 1
-group: navigation
+title:My extra page number
+group:navigation
 ---
 
 ### Overview pages
