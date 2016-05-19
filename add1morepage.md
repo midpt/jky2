@@ -3,6 +3,8 @@ layout: page
 title : MyExtraPage
 group: navigation
 ---
+{% include JB/setup %}
+
 
 ### Overview on MyExtraPage
 
