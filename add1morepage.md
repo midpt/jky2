@@ -1,7 +1,7 @@
 ---
-layout:page
+layout: page
 title : MyExtraPage
-group:navigation
+group: navigation
 ---
 
 ### Overview pages
