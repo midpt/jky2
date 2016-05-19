@@ -35,13 +35,11 @@ My own Bootstrap alert
 ## My site.pages listing
 
 {% for page in site.pages %}
-
-    <div class="item">
+     Page path: {{page.path}}
+	 Page url: {{page.url}}
 	 Page categories: {{page.categories}}
      Page title: <p>{{page.title}}</p>
      Page description: <p>{{page.description}}</p>  
-    </div>
-
 {% endfor %}
 ----------------------------
 
