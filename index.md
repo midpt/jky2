@@ -59,14 +59,8 @@ My own Bootstrap alert modal
   </div>
   
 
- 
   
-  
-  
-  
-  
-  
-</div>	<!-- End container  -->  
+</div>	
 ----------------- 
 
 ## My site.pages listing
