@@ -32,7 +32,18 @@ My own Bootstrap alert
 </div>	  
 ----------------- 
 
+## My site.pages listing
 
+{% for page in site.pages %}
+
+    <div class="item">
+	 Page categories: {{page.categories}}
+     Page title: <p>{{page.title}}</p>
+     Page description: <p>{{page.description}}</p>  
+    </div>
+
+{% endfor %}
+----------------------------
 
 **Try table of content**
 
