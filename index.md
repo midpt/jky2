@@ -71,15 +71,13 @@ My own Bootstrap alert modal
   </div> 
 
 
-  <h3>Popover Example</h3>
-  <a href="#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Toggle popover</a>
+   <div class="jumbotron">
+    <h4>Bootstrap Tutorial</h4>      
+    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+  </div>
+  <p>This is some text.</p>      
+  <p>This is another text.</p>      
 
-
-<script>
-$(document).ready(function(){
-    $('[data-toggle="popover"]').popover();   
-});
-</script>  
 
 ----------------- 
 
