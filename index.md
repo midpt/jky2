@@ -159,7 +159,16 @@ Classic Bootstrap Components
     </tbody>
   </table>
  
- 
+
+  <h3>Tooltip Example</h3>
+  <a href="#" data-toggle="tooltip" title="Hooray!">Hover over me</a>
+
+
+	<script>
+	$(document).ready(function(){
+		$('[data-toggle="tooltip"]').tooltip();   
+	});
+	</script>
  
 ----------------- 
 
