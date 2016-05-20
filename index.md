@@ -14,9 +14,19 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 ## My own paragraph
 
 ----------------
-My own Bootstrap alert modal
+Classic Bootstrap Components
 
-  <h2>Alerts</h2>
+  <h3>Button Styles</h3>
+  <button type="button" class="btn btn-default" onclick="javascript: alert('Default')">Default</button>
+  <button type="button" class="btn btn-primary" onclick="javascript: alert('Primary')">Primary</button>
+  <button type="button" class="btn btn-success" onclick="javascript: alert('Success')">Success</button>
+  <button type="button" class="btn btn-info" onclick="javascript: alert('Hello')">Info</button>
+  <button type="button" class="btn btn-warning" onclick="javascript: alert('Hello')">Warning</button>
+  <button type="button" class="btn btn-danger" onclick="javascript: alert('Danger')">Danger</button>
+  <button type="button" class="btn btn-link"  onclick="javascript: alert('Link')">Link</button>      
+
+
+  <h3>Alerts</h3>
   <div class="alert alert-success">
     <strong>Success!</strong> This alert box could indicate a successful or positive action.
   </div>
@@ -32,7 +42,7 @@ My own Bootstrap alert modal
   
   
 
-  <h2>Modal Example</h2>
+  <h3>Modal Example</h3>
   <!-- Trigger the modal with a button -->
   <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
 
@@ -56,7 +66,7 @@ My own Bootstrap alert modal
     </div>
   </div>
  
-  <h2>Dropdowns</h2>
+  <h3>Dropdowns</h3>
   <p>The .dropdown class is used to indicate a dropdown menu.</p>
   <p>Use the .dropdown-menu class to actually build the dropdown menu.</p>
   <p>To open the dropdown menu, use a button or a link with a class of .dropdown-toggle and data-toggle="dropdown".</p>                                          
@@ -70,16 +80,16 @@ My own Bootstrap alert modal
     </ul>
   </div> 
 
-
+   <h3>Jumbotron</h3>
    <div class="jumbotron">
     <h4>Bootstrap Tutorial</h4>      
     <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
   </div>
-  <p>This is some text.</p>      
-  <p>This is another text.</p>      
+    
 
  <!--   Image carousel                        -->
-  <br>
+ <h3>Image Carousel</h3>
+  <br/>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
