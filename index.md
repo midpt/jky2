@@ -15,7 +15,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ----------------
 My own Bootstrap alert modal
-<!-- <div class="container">  -->
+
   <h2>Alerts</h2>
   <div class="alert alert-success">
     <strong>Success!</strong> This alert box could indicate a successful or positive action.
@@ -29,7 +29,6 @@ My own Bootstrap alert modal
   <div class="alert alert-danger">
     <strong>Danger!</strong> This alert box could indicate a dangerous or potentially negative action.
   </div>
-  
   
   
 
@@ -72,7 +71,7 @@ My own Bootstrap alert modal
   </div> 
 
   
-<!-- </div>	 -->
+
 ----------------- 
 
 ## My site.pages listing
